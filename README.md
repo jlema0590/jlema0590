@@ -30,6 +30,7 @@ Actualmente soy Líder Tecnológico en Grupo CPS. Dando servicio dentro de las �
 * Experiencia y administración de infraestructura con Terraform.
 * Experiencia y administración de Jenkins para pruebas e integraciones Continuas.
 * Experiencia y administración en Metodología Ágil para desarrollos de proyectos Agiles.
+
 **Aptitudes**: Amazon Web Services (AWS) · Azure DevOps · Azure Kubernetes Service (AKS) · Jenkins · Istio · Vault · Grafana · Terraform · Kubernetes
 
 
