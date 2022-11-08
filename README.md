@@ -37,6 +37,6 @@ Actualmente soy Líder Tecnológico en Grupo CPS. Dando servicio dentro de las �
 ## 🚀 Contact
 Puedes encontrarme en las siguientes redes sociales:
 
-[![linkedin](https://img.shields.io/badge/-Linkedin-blue)](www.linkedin.com/in/juan-andres-lema)
+[![linkedin](https://img.shields.io/badge/-linkedin-blue)](www.linkedin.com/in/juan-andres-lema)
 
 [![malt](https://img.shields.io/badge/-Malt-orange)](https://www.malt.es/profile/juanlema)
